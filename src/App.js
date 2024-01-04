@@ -8,22 +8,15 @@ function App() {
         
         <Dictionary defaultKeyword="sunset" />
         <footer>
-          This project was coded by{" "}
+          This project was coded by Holly Allison and open-sourced on 
           <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Holly Allison
-          </a>{" "}
-          and is{" "}
-          <a
-            href="https://github.com/hollyallison/react-dictionary"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            open-sourced on GitHub
-          </a>
+  href="https://github.com/hollyallison/react-dictionary"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  GitHub
+</a>
+
         </footer>
       </div>
     </div>
